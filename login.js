@@ -1,1 +1,2 @@
-console.log('Hello CMS Track')
+function login(){}
+function validate_password(){}
